@@ -51,6 +51,30 @@ A set of useful resources for front-end developers.
 * [CrossBrowserTesting](http://crossbrowsertesting.com/)
 * [Spoon.net](http://spoon.net/browsers)
 
+### Plugins
+
+* Chrome
+    * [Dev HTTP Client](https://chrome.google.com/webstore/detail/dev-http-client/aejoelaoggembcahagimdiliamlcdmfm)
+    * [Advanced REST client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo)
+    * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/pblpfhfcojodgcifojnofommahgbaple)
+    * [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en)
+    * [PageSpeed](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en)
+    * [All](https://chrome.google.com/webstore/category/ext/11-web-development)
+* Firefox
+    * [Firebug](http://getfirebug.com/)
+    * [YSlow](https://addons.mozilla.org/en-US/firefox/addon/yslow/?src=search)
+    * [All](https://addons.mozilla.org/en-US/firefox/)
+* Opera
+    * [All](https://addons.opera.com/en/extensions/)
+* Safari
+    * [All](http://extensions.apple.com/)
+* Internet Explorer
+    * [DebugBar](http://www.debugbar.com/)
+    * [Developer Toolbar](http://www.microsoft.com/downloads/details.aspx?familyid=e59c3964-672d-4511-bb3e-2d5e1db91038&displaylang=en)
+    * [All](http://www.iegallery.com/Addons)
+* [Web Developer](http://chrispederick.com/work/web-developer/)
+* [ColorZilla](http://www.colorzilla.com/)
+
 
 ## Sites
 
