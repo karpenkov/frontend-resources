@@ -36,3 +36,4 @@
 ### Utilities
 
 * [Fiddler](http://fiddler2.com/)
+* [Charles](http://www.charlesproxy.com/)
