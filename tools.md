@@ -17,6 +17,8 @@
     * [Mindscape Web Workbench](http://visualstudiogallery.msdn.microsoft.com/2b96d16a-c986-4501-8f97-8008f9db141a)
     * [JSLint.NET](http://visualstudiogallery.msdn.microsoft.com/ede12aa8-0f80-4e6f-b15c-7a8b3499370e)
     * [ReSharper](http://visualstudiogallery.msdn.microsoft.com/EA4AC039-1B5C-4D11-804E-9BEDE2E63ECF)
+    * [Emmet.NET](https://github.com/sergey-rybalkin/emmet.net)
+    * [TypeScript](http://www.microsoft.com/en-us/download/details.aspx?id=34790)
     * [All](http://visualstudiogallery.msdn.microsoft.com/)
 * WebStorm
     * [All](http://plugins.jetbrains.com/webStorm)
