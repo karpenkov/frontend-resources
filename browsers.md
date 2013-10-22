@@ -30,6 +30,13 @@
     * [IE7](http://www.microsoft.com/en-us/download/internet-explorer-7-details.aspx)
     * [IE6](http://www.microsoft.com/en-us/download/details.aspx?id=1)
 
+### Bug trackers
+
+* [Chromium](https://code.google.com/p/chromium/issues/list)
+* [Opera](https://bugs.opera.com/secure/Dashboard.jspa)
+* [Mozilla](https://bugzilla.mozilla.org/)
+* [Internet Explorer](https://connect.microsoft.com/site/sitehome.aspx?SiteID=136)
+
 ### Simulators
 
 * [Opera Mini](http://www.opera.com/developer/opera-mini-simulator)
