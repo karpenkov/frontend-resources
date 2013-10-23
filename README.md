@@ -6,3 +6,4 @@ A set of useful resources for front-end developers.
 * [Development Tools](tools.md) - development tools, utilities, ide etc.
 * [Working with Images](images.md) - editors, optimizers etc.
 * [Guidelines](guidelines.md) - coding standards and guidelines
+* [Code Validators](validators.md) - tools for code validation and analysis
