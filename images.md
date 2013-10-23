@@ -17,9 +17,9 @@
 
 ### Utilities
 
-* [xScope](http://xscopeapp.com/)
-* [Color Snapper](http://colorsnapper.com/)
-* [CSS Hat](http://csshat.com/)
+* [xScope](http://xscopeapp.com/) - a set of tools for measuring, inspecting & testing on-screen graphics and layouts
+* [Color Snapper](http://colorsnapper.com/) - color picker
+* [CSS Hat](http://csshat.com/) - a tool that turns Photoshop layer styles to CSS3
 
 ### Screen Capture
 

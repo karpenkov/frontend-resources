@@ -35,5 +35,6 @@
 
 ### Utilities
 
-* [Fiddler](http://fiddler2.com/)
-* [Charles](http://www.charlesproxy.com/)
+* [Fiddler](http://fiddler2.com/) - a web debugging proxy which logs all HTTP(s) traffic between your computer and the Internet
+* [Charles](http://www.charlesproxy.com/) - an HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet
+* [SKIA Debugger](https://sites.google.com/site/skiadocs/developer-documentation/skia-debugger) - a graphical tool used to step through and analyze the contents of the skia picture format
