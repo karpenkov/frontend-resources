@@ -14,7 +14,7 @@ Feel free to contribute!
 
 * [Working with Images](images.md) - image editors, image optimizers etc.
 * [Working with SVG](svg.md) - SVG editors, SVG optimizers etc.
-* [Working with Fonts](fonts.md) - font libraries, font generators, replacers etc.
+* [Working with Fonts](fonts.md) - font libraries, font generators, replacers, converters etc.
 * Working with XML
 * Working with JSON
 

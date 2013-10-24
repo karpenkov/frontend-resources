@@ -21,6 +21,11 @@
 * [sIFR](http://www.mikeindustries.com/blog/sifr/)
 * [Multi color sIFR](http://webdesign.maratz.com/lab/multi_color_sifr/)
 
+### Converters
+
+* [Online Font Converter](http://onlinefontconverter.com/)
+* [font2web](http://www.font2web.com/)
+
 ### Optimization
 
 * [WebFont Generator](http://www.fontsquirrel.com/tools/webfont-generator)
@@ -29,3 +34,4 @@
 ### Utilities
 
 * [px2em](http://pxtoem.com/) - PX to EM conversion
+* [fpedit](http://www.microsoft.com/typography/property/fpedit.htm) - font properties editor
