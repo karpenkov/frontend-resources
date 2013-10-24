@@ -2,7 +2,7 @@
 
 ### Editors
 
-* [Photoshop](http://www.adobe.com/products/photoshop.html?promoid=JOLIW)
+* [Adobe Photoshop](http://www.adobe.com/products/photoshop.html?promoid=JOLIW)
 * [GIMP](http://www.gimp.org/downloads/)
 * [Sketch](http://www.bohemiancoding.com/sketch/)
 
