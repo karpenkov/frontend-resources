@@ -8,6 +8,6 @@ A set of useful resources for front-end developers.
 * [Development Tools](tools.md) - development tools, utilities, ide etc.
 * [Working with Images](images.md) - editors, optimizers etc.
 * [Working with SVG](svg.md) - SVG editors, optimizers etc.
-* Working with Fonts
+* [Working with Fonts](fonts.md) - font libraries, generators, replacers etc.
 * Working with XML
 * Working with JSON
