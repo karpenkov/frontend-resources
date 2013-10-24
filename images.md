@@ -35,3 +35,9 @@
 * [lorempixel](http://lorempixel.com/)
 * [placehold.it](http://placehold.it/)
 * [placekitten](http://placekitten.com/)
+
+### Sprite Generators
+
+* [SpritePad](http://spritepad.wearekiss.com/)
+* [SpriteBox](http://www.spritebox.net/)
+* [CSS Sprite Generator](http://spritegen.website-performance.org/)
