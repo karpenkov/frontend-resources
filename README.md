@@ -16,7 +16,7 @@ Feel free to contribute!
 * [Working with SVG](svg.md) - SVG editors, SVG optimizers etc.
 * [Working with Fonts](fonts.md) - font libraries, font generators, replacers, converters etc.
 * [Working with XML](xml.md)
-* Working with JSON
+* [Working with JSON](json.md) - standard, utilities etc.
 
 ### Javascript
 
