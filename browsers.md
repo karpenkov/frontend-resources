@@ -64,6 +64,7 @@
     * [PageSpeed](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en)
     * [jsshell](https://chrome.google.com/webstore/detail/jsshell/kmgmkbicahmbceidoidjbkbpkfogaldh?hl=en)
     * [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en)
+    * [Tincr](http://tin.cr/)
     * [All](https://chrome.google.com/webstore/category/ext/11-web-development)
 * Firefox
     * [Firebug](http://getfirebug.com/)

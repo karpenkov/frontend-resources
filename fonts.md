@@ -35,3 +35,4 @@
 
 * [px2em](http://pxtoem.com/) - PX to EM conversion
 * [fpedit](http://www.microsoft.com/typography/property/fpedit.htm) - font properties editor
+* [WhatFont](http://chengyinliu.com/whatfont.html) - detects the font user is hovering on
