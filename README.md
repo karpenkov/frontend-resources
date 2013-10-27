@@ -9,6 +9,7 @@ Feel free to contribute!
 * [Code Validators](validators.md) - tools for code validation and analysis, linters etc.
 * [Development Tools](tools.md) - development tools, utilities, ide etc.
 * [Playgrounds](playgrounds.md) - code snippets, playgrounds and useful services for frontend development
+* [Prototyping Tools](prototypes.md) - prototyping and mockup tools, wireframe creators, quick designers etc.
 
 ### Assets
 
