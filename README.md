@@ -19,14 +19,8 @@ Feel free to contribute!
 * [Working with XML](xml.md)
 * [Working with JSON](json.md) - standard, utilities etc.
 
-### Javascript
+### Development
 
-To be added.
-
-### CSS
-
-To be added.
-
-### HTML
-
-To be added.
+* [Javascript](javascript.md)
+* [CSS](css.md)
+* [HTML](html.md)
