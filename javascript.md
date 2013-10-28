@@ -35,6 +35,16 @@
 
 ### Testing
 
+* [QUnit](http://qunitjs.com/)
+* [Jasmine](http://pivotal.github.io/jasmine/)
+* [YUI Test](http://yuilibrary.com/yui/docs/test/)
+* [DOH](http://dojotoolkit.org/reference-guide/1.8/util/doh.html)
+* [Karma](http://karma-runner.github.io/0.8/index.html)
+* [Mocha](http://visionmedia.github.io/mocha/)
+* [CasperJS](http://casperjs.org/)
+* [JsTestDriver](https://code.google.com/p/js-test-driver/)
+* [Sinon.JS](http://sinonjs.org/)
+
 ### Preprocessors
 
 ### Minifiers
