@@ -43,32 +43,32 @@
 * [Opera Mobile](http://www.opera.com/developer/mobile-emulator)
 * [Opera TV](http://www.operasoftware.com/products/tv-emulator)
 * [iOS](https://developer.apple.com/devcenter/ios/index.action)
-* [IETester](http://my-debugbar.com/wiki/IETester/HomePage)
+* [IETester](http://my-debugbar.com/wiki/IETester/HomePage) - IE10, IE9, IE8, IE7 IE 6 and IE5.5
 * [Blackberry](http://us.blackberry.com/sites/developers/resources/simulators.html)
 
 ### Testers
 
-* [BrowserStack](http://www.browserstack.com/)
-* [BrowserShots](http://browsershots.org/)
-* [Browserling](https://browserling.com/)
-* [CrossBrowserTesting](http://crossbrowsertesting.com/)
+* [BrowserStack](http://www.browserstack.com/) - $ - web-based browser testing
+* [BrowserShots](http://browsershots.org/) - screenshots
+* [Browserling](https://browserling.com/) - interactive cross-browser testing
+* [CrossBrowserTesting](http://crossbrowsertesting.com/) - $ - screenshots and live testing
 * [Spoon.net](http://spoon.net/browsers)
 
 ### Plugins
 
 * Chrome
-    * [Dev HTTP Client](https://chrome.google.com/webstore/detail/dev-http-client/aejoelaoggembcahagimdiliamlcdmfm)
+    * [Dev HTTP Client](https://chrome.google.com/webstore/detail/dev-http-client/aejoelaoggembcahagimdiliamlcdmfm) - request constructor
     * [Advanced REST client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo)
-    * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/pblpfhfcojodgcifojnofommahgbaple)
-    * [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en)
-    * [PageSpeed](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en)
-    * [jsshell](https://chrome.google.com/webstore/detail/jsshell/kmgmkbicahmbceidoidjbkbpkfogaldh?hl=en)
-    * [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en)
-    * [Tincr](http://tin.cr/)
+    * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/pblpfhfcojodgcifojnofommahgbaple) - helps debugging JSON data by formatting and validating JSON data
+    * [LiveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en) - Chrome browser integration for the official LiveReload apps (Mac & Windows) and third-parties like guard-livereload and yeoman
+    * [PageSpeed](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en) - analyzes the performance of your web pages and provides suggestions to make them faster
+    * [jsshell](https://chrome.google.com/webstore/detail/jsshell/kmgmkbicahmbceidoidjbkbpkfogaldh?hl=en) - a small command window that lets you run jQuery and jLinq commands on any page
+    * [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en) - helps develop websites with per pixel accuracy
+    * [Tincr](http://tin.cr/) - edit and save files from Chrome Developer tools
     * [All](https://chrome.google.com/webstore/category/ext/11-web-development)
 * Firefox
     * [Firebug](http://getfirebug.com/)
-    * [YSlow](https://addons.mozilla.org/en-US/firefox/addon/yslow/?src=search)
+    * [YSlow](https://addons.mozilla.org/en-US/firefox/addon/yslow/?src=search) - analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages
     * [All](https://addons.mozilla.org/en-US/firefox/)
 * Opera
     * [All](https://addons.opera.com/en/extensions/)
@@ -76,7 +76,7 @@
     * [All](http://extensions.apple.com/)
 * Internet Explorer
     * [DebugBar](http://www.debugbar.com/)
-    * [Developer Toolbar](http://www.microsoft.com/downloads/details.aspx?familyid=e59c3964-672d-4511-bb3e-2d5e1db91038&displaylang=en)
+    * [Developer Toolbar](http://www.microsoft.com/en-us/download/details.aspx?id=18359) - provides a variety of tools for quickly creating, understanding, and troubleshooting Web pages
     * [All](http://www.iegallery.com/Addons)
 * [Web Developer](http://chrispederick.com/work/web-developer/)
 * [ColorZilla](http://www.colorzilla.com/)
