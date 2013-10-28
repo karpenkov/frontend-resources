@@ -45,7 +45,14 @@
 * [JsTestDriver](https://code.google.com/p/js-test-driver/)
 * [Sinon.JS](http://sinonjs.org/)
 
-### Preprocessors
+### Preprocessors ([more...](https://github.com/jashkenas/coffee-script/wiki/List-of-languages-that-compile-to-JS))
+
+* [CoffeeScript](http://coffeescript.org/)
+* [CoffeeScriptRedux](https://github.com/michaelficarra/CoffeeScriptRedux)
+* [LiveScript](http://gkz.github.io/LiveScript/)
+* [IcedCoffeeScript](http://maxtaco.github.io/coffee-script/)
+* [TypeScript](http://www.typescriptlang.org/)
+* [LispyScript](http://lispyscript.com/)
 
 ### Minifiers
 
