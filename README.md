@@ -16,11 +16,11 @@ Feel free to contribute!
 * [Working with Images](images.md) - image editors, image optimizers etc.
 * [Working with SVG](svg.md) - SVG editors, SVG optimizers etc.
 * [Working with Fonts](fonts.md) - font libraries, font generators, replacers, converters etc.
-* [Working with XML](xml.md)
 * [Working with JSON](json.md) - standard, utilities etc.
+* [Working with XML](xml.md)
 
 ### Development
 
-* [Javascript](javascript.md)
-* [CSS](css.md)
-* [HTML](html.md)
+* [Javascript](javascript.md) - javascript libraries, frameworks, preprocessors, testing tools, minifiers, obfuscators, useful tools etc.
+* [CSS](css.md) - CSS frameworks, preprocessors, postprocessors, minifiers and tools
+* [HTML](html.md) - templating engines, pre- and postprocessors, minifiers and useful utilities for working with HTML
