@@ -2,24 +2,24 @@
 
 ### Editors
 
-* [Adobe Photoshop](http://www.adobe.com/products/photoshop.html?promoid=JOLIW)
+* [Adobe Photoshop](http://www.adobe.com/products/photoshop.html?promoid=JOLIW) - $
 * [GIMP](http://www.gimp.org/downloads/)
-* [Sketch](http://www.bohemiancoding.com/sketch/)
+* [Sketch](http://www.bohemiancoding.com/sketch/) - $
 
 ### Optimization
 
-* [Smush.it](http://www.smushit.com/ysmush.it/)
+* [Smush.it](http://www.smushit.com/ysmush.it/) - online tool that removes unnecessary bytes from image files
 * [ImageMagic](http://www.imagemagick.org/script/index.php)
 * [pngcrush](http://pmt.sourceforge.net/pngcrush/)
 * [jpegtran](http://sylvana.net/jpegcrop/jpegtran/)
 * [gifsicle](http://www.lcdf.org/gifsicle/)
-* [Imgo](http://imgo.github.io/imgo/)
+* [Imgo](http://imgo.github.io/imgo/) - a tool for automated lossless image optimization
 
 ### Utilities
 
-* [xScope](http://xscopeapp.com/) - a set of tools for measuring, inspecting & testing on-screen graphics and layouts
-* [Color Snapper](http://colorsnapper.com/) - color picker
-* [CSS Hat](http://csshat.com/) - a tool that turns Photoshop layer styles to CSS3
+* [xScope](http://xscopeapp.com/) - $ - a set of tools for measuring, inspecting & testing on-screen graphics and layouts
+* [Color Snapper](http://colorsnapper.com/) - $ - color picker
+* [CSS Hat](http://csshat.com/) - $ - a tool that turns Photoshop layer styles to CSS3
 
 ### Screen Capture
 
