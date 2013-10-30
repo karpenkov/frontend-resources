@@ -56,6 +56,21 @@
 
 ### Minifiers
 
+* [Closure Compiler](http://closure-compiler.appspot.com/home)
+* [YUIComplessor](http://yui.github.io/yuicompressor/)
+* [UglifyJS2](https://github.com/mishoo/UglifyJS2/)
+* [/packer/](http://dean.edwards.name/packer/)
+* [Online YUI Compressor](http://refresh-sf.com/yui/)
+
 ### Obfuscators
 
-### Tools
+* [Bananascript](http://www.bananascript.com/)
+* [Javascript Obfuscator](http://javascriptobfuscator.com/)
+* [JS Obfuscate](http://www.jsobfuscate.com/)
+
+### Tools ([more...](http://pineapple.io/resources/tagged/javascript?type=tools&sort=all_time))
+
+* [JSBeautifier](http://jsbeautifier.org/) - beautifies js code
+* [JSDoc](https://code.google.com/p/jsdoc-toolkit/) - an application, written in JavaScript, for automatically generating template-formatted, multi-page HTML (or XML, JSON, or any other text-based) documentation from commented JavaScript source code
+* [jsPerf](http://jsperf.com/) - JavaScript performance playground
+* [Esprima](http://esprima.org/) - a high performance, standard-compliant ECMAScript parser written in ECMAScript
