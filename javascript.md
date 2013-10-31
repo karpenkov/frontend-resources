@@ -32,6 +32,7 @@
     * [basis.js](http://basisjs.com/)
     * [GWT](http://www.gwtproject.org/)
     * [Spine](http://spinejs.com/)
+    * [Aura](https://github.com/aurajs/aura)
 
 ### Testing
 

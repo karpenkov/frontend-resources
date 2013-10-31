@@ -42,3 +42,5 @@
 * [normalize.css](http://necolas.github.io/normalize.css/)
 * [cssarrowplease](http://cssarrowplease.com/)
 * [CSS3, Please!](http://css3please.com/) - a cross-browser CSS3 rule generator
+* [BEM](http://bem.info/) - a way to modularize the development of pages
+* [Selectivizr](http://selectivizr.com/) - a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8

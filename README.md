@@ -21,6 +21,7 @@ Feel free to contribute!
 
 ### Development
 
+* [Common](common.md) - package managers, documentation systems, build tools etc.
 * [Javascript](javascript.md) - javascript libraries, frameworks, preprocessors, testing tools, minifiers, obfuscators, useful tools etc.
 * [CSS](css.md) - CSS frameworks, preprocessors, postprocessors, minifiers and tools
 * [HTML](html.md) - templating engines, pre- and postprocessors, minifiers and useful utilities for working with HTML
