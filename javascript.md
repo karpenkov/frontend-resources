@@ -14,6 +14,7 @@
     * [Ext JS](http://www.sencha.com/products/extjs)
     * [script.aculo.us](http://script.aculo.us/)
     * [DHTMLX](http://dhtmlx.com/)
+    * [React](http://facebook.github.io/react/)
 * for graphics
     * [Highcharts](http://www.highcharts.com/)
     * [D3](http://d3js.org/)

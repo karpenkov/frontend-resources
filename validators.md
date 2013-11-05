@@ -17,4 +17,4 @@
 * [JSLint](http://www.jslint.com/)
 * [Javascript Lint](http://www.javascriptlint.com/index.htm)
 * [JSHint](http://www.jshint.com/)
-* [JSCS](https://github.com/mdevils/node-jscs) - jscs can check cases, which are not implemeted in jshint, but it does not duplicate jshint functionality
+* [JSCS](https://github.com/mdevils/node-jscs) - checks cases, which are not implemeted in jshint, but it does not duplicate jshint functionality
